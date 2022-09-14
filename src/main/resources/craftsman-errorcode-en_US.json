@@ -1,0 +1,5 @@
+{
+  "errcodes":[
+    {"code":"00000001","level":"ERROR","label":"Error occurred in server."}
+  ]
+}
