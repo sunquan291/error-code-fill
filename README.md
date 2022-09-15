@@ -2,9 +2,9 @@
 ## 1、引入对应的pom依赖则直接生效
 
 ```xml
- 	<groupId>com.zte.sdn.oscp</groupId>
-    <artifactId>error-code-spring-boot-starter</artifactId>
-    <version>2.4.4</version>
+ <groupId>com.zte.sdn.oscp</groupId>
+ <artifactId>error-code-spring-boot-starter</artifactId>
+ <version>2.4.4</version>
 ```
 
 ## 2、在REST调用地方，使用对应的封装方法：
